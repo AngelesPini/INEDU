@@ -210,7 +210,7 @@ default:
 
 
 
-let entrada = prompt('Ingrese un nombre')
+/*let entrada = prompt('Ingrese un nombre')
 
 switch(entrada){
     case "luca":
@@ -227,4 +227,4 @@ switch(entrada){
     default:
         alert('hola extraño')
         break;
-}
+}*/
