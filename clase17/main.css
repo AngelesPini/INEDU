@@ -1,0 +1,46 @@
+.contenedorSolo{
+    color: blue;
+}
+
+.contenedor{
+    color: red;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 500px;
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+}
+
+#productos{
+    display: flex;
+    justify-content: space-around;
+}
+.producto{
+    width: 250px;
+    font-family: "Josefin Sans", serif;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px #000;
+    padding: 20px;
+    border-radius: 15%;
+}
+.producto button{
+    background-color: aquamarine;
+    border: none;
+    font-size: 15px;
+    padding: 12px;
+    cursor: pointer;
+    border-radius: 15%;
+}
+
+.producto button:hover{
+    border: solid 2px aquamarine;
+    background-color: #fff;
+    
+}
