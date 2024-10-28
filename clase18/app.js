@@ -98,3 +98,6 @@ function validarFormulario(e){
 }
 
 formulario.addEventListener('submit', validarFormulario)
+
+
+//comentario de prueba
