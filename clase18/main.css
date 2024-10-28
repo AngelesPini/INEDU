@@ -1,0 +1,50 @@
+.eventosMouse{
+    width: 150px;
+    height: 150px;
+}
+.violeta{
+    background-color: blueviolet;
+}
+.azul{
+    background-color: blue;
+}
+
+.rojo
+{
+    background-color: red;
+}
+
+.naranja{
+    background-color: orange;
+}
+
+/* .agrandar{
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+} */
+
+.radio{
+    border-radius: 50%;
+    background-color: brown;
+}
+
+#mensaje{
+    width: 150px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 50px;
+    color: #fff;
+    font-family: "Josefin Sans", serif;
+}
+
+.mensaje-correcto{
+    background-color: green;
+}
+
+.mensaje-incorrecto{
+    background-color: red;
+}
